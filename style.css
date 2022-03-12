@@ -28,9 +28,20 @@
     padding-top: 16%;
 }
 
+@keyframes bounce {
+    from {
+        transform: translate3d(0, 0, 0);
+    }
+    to {
+        transform: translate3d(0, -50px, 0);
+    }
+}
+
 .sect-1 .mouse {
     padding-top: 5%;
-    animation: bounce 0.9s infinite
+    animation-direction: alternate;
+    animation: bounce 0.9s;
+    animation-iteration-count: infinite;
 }
 
 .sect-2 .about-us {
