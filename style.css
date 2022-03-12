@@ -11,7 +11,7 @@
     background-size: 100vw;
     color: white;
     text-align: center;
-    height: 1700px;
+    height: 800px;
 }
 
 .sect-1 .h1 {
@@ -30,4 +30,17 @@
 
 .sect-1 .mouse {
     padding-top: 5%;
+    animation: bounce 0.9s infinite
+}
+
+.sect-2 .about-us {
+    font-family: 'roboto-mono';
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.sect-2 .cont-1 {
+    font-family: 'lato';
+    font-size: 18px;
+    font-weight: 300;
 }
