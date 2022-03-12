@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Playfair+Display+SC:wght@900&family=Poppins:ital,wght@1,900&family=Roboto+Mono:wght@300&display=swap');
 * {
     padding: 0;
     margin: 0;
@@ -11,4 +12,18 @@
     color: white;
     text-align: center;
     height: 1700px;
+}
+
+.sect-1 .h1 {
+    font-family: 'gothic';
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.sect-1 p {
+    text-transform: uppercase;
+}
+
+.hero {
+    padding-top: 24%;
 }
