@@ -211,3 +211,51 @@
 .image-1 {
     position: relative;
 }
+
+.design-1 {
+    position: relative;
+}
+
+.design-2 {
+    position: relative;
+}
+
+#text-overlay {
+    position: absolute;
+    top: -140px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'quicksand';
+    opacity: 0;
+}
+
+#text-overlay1 {
+    position: absolute;
+    top: -140px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'quicksand';
+    opacity: 0;
+}
+
+.design-3 {
+    position: relative;
+}
+
+#text-overlay2 {
+    position: absolute;
+    top: -140px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'quicksand';
+    opacity: 0;
+}
