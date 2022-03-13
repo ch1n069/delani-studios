@@ -71,3 +71,24 @@
 #design {
     font-family: 'lato'
 }
+
+#overlay {
+    width: 275px;
+    height: 230px;
+    border: 8px solid rgb(255, 255, 255);
+    position: absolute;
+    top: 7px;
+    left: 27px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: 'quicksand';
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+}
+
+.image-1 {
+    position: relative;
+}
