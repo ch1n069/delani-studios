@@ -1,6 +1,12 @@
 $(document).ready(function() {
-    $("#design-1").hover(function() {
-        alert("hey there")
+    $("#overlay").hover(function() {
+            // this animates the hover to fade to
+            $(this).css("opacity", 1)
+        },
+        function() {
+            $(this).removeAttr("style")
+        }
 
-    })
+
+    )
 })
