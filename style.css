@@ -259,3 +259,20 @@
     font-family: 'quicksand';
     opacity: 0;
 }
+
+#last-1 {
+    height: 600px;
+    background-image: url("./images/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cont-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#lasty h2 {
+    font-size: 20px;
+}
