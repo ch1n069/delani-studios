@@ -82,4 +82,15 @@ $(document).ready(function() {
 
 
     )
+
+    $("#design-1").hover(function() {
+            $("#design1,h3").hide();
+            $("#text-overlay").css("opacity", 1)
+        },
+        function() {
+            $("#text-overlay").removeAttr("style")
+            $("#design1,h3").show()
+        })
+
+
 })
