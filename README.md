@@ -10,6 +10,16 @@
 
 ## Screen shots 
 
+![Screen shot 1](images/screenshot1.png)
+
+
+
+![screen shot 2](images/screenshot2.png)
+
+
+
+![screen shot 3](images/screenshot3.png)
+
 
 
 
@@ -34,4 +44,4 @@
 
 
 ## license
-* heres a link to my license (License)[License]
+* heres a link to my license (license)[license]
